@@ -1,0 +1,13 @@
+# Target labels
+ libevent
+# Source files and their labels
+/root/kvrocks/build/CMakeFiles/libevent
+/root/kvrocks/build/CMakeFiles/libevent.rule
+/root/kvrocks/build/CMakeFiles/libevent-complete.rule
+/root/kvrocks/build/external/libevent-prefix/src/libevent-stamp/libevent-build.rule
+/root/kvrocks/build/external/libevent-prefix/src/libevent-stamp/libevent-configure.rule
+/root/kvrocks/build/external/libevent-prefix/src/libevent-stamp/libevent-download.rule
+/root/kvrocks/build/external/libevent-prefix/src/libevent-stamp/libevent-install.rule
+/root/kvrocks/build/external/libevent-prefix/src/libevent-stamp/libevent-mkdir.rule
+/root/kvrocks/build/external/libevent-prefix/src/libevent-stamp/libevent-patch.rule
+/root/kvrocks/build/external/libevent-prefix/src/libevent-stamp/libevent-update.rule

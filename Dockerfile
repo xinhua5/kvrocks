@@ -12,7 +12,7 @@ FROM almalinux:8.5
 
 WORKDIR /data
 
-RUN dnf install -y epel-release && dnf install -y redis
+RUN dnf install -y epel-release && dnf install -y redis ncurses
 RUN mkdir /conf
 COPY --from=builder /lib64/libsnappy.so.1 /lib64
 COPY --from=builder /root/kvrocks/src/kvrocks /bin

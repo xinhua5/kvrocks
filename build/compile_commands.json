@@ -1,0 +1,752 @@
+[
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/cluster.cc.o -c /root/kvrocks/src/cluster.cc",
+  "file": "/root/kvrocks/src/cluster.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/server.cc.o -c /root/kvrocks/src/server.cc",
+  "file": "/root/kvrocks/src/server.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/config.cc.o -c /root/kvrocks/src/config.cc",
+  "file": "/root/kvrocks/src/config.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/worker.cc.o -c /root/kvrocks/src/worker.cc",
+  "file": "/root/kvrocks/src/worker.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/redis_slot.cc.o -c /root/kvrocks/src/redis_slot.cc",
+  "file": "/root/kvrocks/src/redis_slot.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/redis_connection.cc.o -c /root/kvrocks/src/redis_connection.cc",
+  "file": "/root/kvrocks/src/redis_connection.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/redis_pubsub.cc.o -c /root/kvrocks/src/redis_pubsub.cc",
+  "file": "/root/kvrocks/src/redis_pubsub.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/redis_cmd.cc.o -c /root/kvrocks/src/redis_cmd.cc",
+  "file": "/root/kvrocks/src/redis_cmd.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/redis_request.cc.o -c /root/kvrocks/src/redis_request.cc",
+  "file": "/root/kvrocks/src/redis_request.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/replication.cc.o -c /root/kvrocks/src/replication.cc",
+  "file": "/root/kvrocks/src/replication.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/redis_reply.cc.o -c /root/kvrocks/src/redis_reply.cc",
+  "file": "/root/kvrocks/src/redis_reply.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/redis_bitmap.cc.o -c /root/kvrocks/src/redis_bitmap.cc",
+  "file": "/root/kvrocks/src/redis_bitmap.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/redis_bitmap_string.cc.o -c /root/kvrocks/src/redis_bitmap_string.cc",
+  "file": "/root/kvrocks/src/redis_bitmap_string.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/redis_metadata.cc.o -c /root/kvrocks/src/redis_metadata.cc",
+  "file": "/root/kvrocks/src/redis_metadata.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/encoding.cc.o -c /root/kvrocks/src/encoding.cc",
+  "file": "/root/kvrocks/src/encoding.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/redis_string.cc.o -c /root/kvrocks/src/redis_string.cc",
+  "file": "/root/kvrocks/src/redis_string.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/redis_hash.cc.o -c /root/kvrocks/src/redis_hash.cc",
+  "file": "/root/kvrocks/src/redis_hash.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/redis_list.cc.o -c /root/kvrocks/src/redis_list.cc",
+  "file": "/root/kvrocks/src/redis_list.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/redis_set.cc.o -c /root/kvrocks/src/redis_set.cc",
+  "file": "/root/kvrocks/src/redis_set.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/redis_zset.cc.o -c /root/kvrocks/src/redis_zset.cc",
+  "file": "/root/kvrocks/src/redis_zset.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/redis_geo.cc.o -c /root/kvrocks/src/redis_geo.cc",
+  "file": "/root/kvrocks/src/redis_geo.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/redis_sortedint.cc.o -c /root/kvrocks/src/redis_sortedint.cc",
+  "file": "/root/kvrocks/src/redis_sortedint.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/util.cc.o -c /root/kvrocks/src/util.cc",
+  "file": "/root/kvrocks/src/util.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/geohash.cc.o -c /root/kvrocks/src/geohash.cc",
+  "file": "/root/kvrocks/src/geohash.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/storage.cc.o -c /root/kvrocks/src/storage.cc",
+  "file": "/root/kvrocks/src/storage.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/lock_manager.cc.o -c /root/kvrocks/src/lock_manager.cc",
+  "file": "/root/kvrocks/src/lock_manager.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/stats.cc.o -c /root/kvrocks/src/stats.cc",
+  "file": "/root/kvrocks/src/stats.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/event_listener.cc.o -c /root/kvrocks/src/event_listener.cc",
+  "file": "/root/kvrocks/src/event_listener.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/task_runner.cc.o -c /root/kvrocks/src/task_runner.cc",
+  "file": "/root/kvrocks/src/task_runner.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/cron.cc.o -c /root/kvrocks/src/cron.cc",
+  "file": "/root/kvrocks/src/cron.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/compact_filter.cc.o -c /root/kvrocks/src/compact_filter.cc",
+  "file": "/root/kvrocks/src/compact_filter.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/redis_db.cc.o -c /root/kvrocks/src/redis_db.cc",
+  "file": "/root/kvrocks/src/redis_db.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/log_collector.cc.o -c /root/kvrocks/src/log_collector.cc",
+  "file": "/root/kvrocks/src/log_collector.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/table_properties_collector.cc.o -c /root/kvrocks/src/table_properties_collector.cc",
+  "file": "/root/kvrocks/src/table_properties_collector.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/batch_extractor.cc.o -c /root/kvrocks/src/batch_extractor.cc",
+  "file": "/root/kvrocks/src/batch_extractor.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/slot_migrate.cc.o -c /root/kvrocks/src/slot_migrate.cc",
+  "file": "/root/kvrocks/src/slot_migrate.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/slot_import.cc.o -c /root/kvrocks/src/slot_import.cc",
+  "file": "/root/kvrocks/src/slot_import.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/compaction_checker.cc.o -c /root/kvrocks/src/compaction_checker.cc",
+  "file": "/root/kvrocks/src/compaction_checker.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/scripting.cc.o -c /root/kvrocks/src/scripting.cc",
+  "file": "/root/kvrocks/src/scripting.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/tests/main.cc.o -c /root/kvrocks/tests/main.cc",
+  "file": "/root/kvrocks/tests/main.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/tests/t_string_test.cc.o -c /root/kvrocks/tests/t_string_test.cc",
+  "file": "/root/kvrocks/tests/t_string_test.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/tests/t_encoding_test.cc.o -c /root/kvrocks/tests/t_encoding_test.cc",
+  "file": "/root/kvrocks/tests/t_encoding_test.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/tests/t_list_test.cc.o -c /root/kvrocks/tests/t_list_test.cc",
+  "file": "/root/kvrocks/tests/t_list_test.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/tests/t_hash_test.cc.o -c /root/kvrocks/tests/t_hash_test.cc",
+  "file": "/root/kvrocks/tests/t_hash_test.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/tests/t_set_test.cc.o -c /root/kvrocks/tests/t_set_test.cc",
+  "file": "/root/kvrocks/tests/t_set_test.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/tests/t_sortedint_test.cc.o -c /root/kvrocks/tests/t_sortedint_test.cc",
+  "file": "/root/kvrocks/tests/t_sortedint_test.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/tests/t_zset_test.cc.o -c /root/kvrocks/tests/t_zset_test.cc",
+  "file": "/root/kvrocks/tests/t_zset_test.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/tests/t_geo_test.cc.o -c /root/kvrocks/tests/t_geo_test.cc",
+  "file": "/root/kvrocks/tests/t_geo_test.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/tests/t_metadata_test.cc.o -c /root/kvrocks/tests/t_metadata_test.cc",
+  "file": "/root/kvrocks/tests/t_metadata_test.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/tests/cluster_test.cc.o -c /root/kvrocks/tests/cluster_test.cc",
+  "file": "/root/kvrocks/tests/cluster_test.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/tests/string_reply_test.cc.o -c /root/kvrocks/tests/string_reply_test.cc",
+  "file": "/root/kvrocks/tests/string_reply_test.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/tests/string_util_test.cc.o -c /root/kvrocks/tests/string_util_test.cc",
+  "file": "/root/kvrocks/tests/string_util_test.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/tests/rwlock_test.cc.o -c /root/kvrocks/tests/rwlock_test.cc",
+  "file": "/root/kvrocks/tests/rwlock_test.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/tests/cron_test.cc.o -c /root/kvrocks/tests/cron_test.cc",
+  "file": "/root/kvrocks/tests/cron_test.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/tests/config_test.cc.o -c /root/kvrocks/tests/config_test.cc",
+  "file": "/root/kvrocks/tests/config_test.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/tests/task_runner_test.cc.o -c /root/kvrocks/tests/task_runner_test.cc",
+  "file": "/root/kvrocks/tests/task_runner_test.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/tests/t_bitmap_test.cc.o -c /root/kvrocks/tests/t_bitmap_test.cc",
+  "file": "/root/kvrocks/tests/t_bitmap_test.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/tests/compact_test.cc.o -c /root/kvrocks/tests/compact_test.cc",
+  "file": "/root/kvrocks/tests/compact_test.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/tests/log_collector_test.cc.o -c /root/kvrocks/tests/log_collector_test.cc",
+  "file": "/root/kvrocks/tests/log_collector_test.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/sha1.cc.o -c /root/kvrocks/src/sha1.cc",
+  "file": "/root/kvrocks/src/sha1.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -I../src -g -o CMakeFiles/unittest.dir/src/rand.cc.o -c /root/kvrocks/src/rand.cc",
+  "file": "/root/kvrocks/src/rand.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/cluster.cc.o -c /root/kvrocks/src/cluster.cc",
+  "file": "/root/kvrocks/src/cluster.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/slot_migrate.cc.o -c /root/kvrocks/src/slot_migrate.cc",
+  "file": "/root/kvrocks/src/slot_migrate.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/slot_import.cc.o -c /root/kvrocks/src/slot_import.cc",
+  "file": "/root/kvrocks/src/slot_import.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/batch_extractor.cc.o -c /root/kvrocks/src/batch_extractor.cc",
+  "file": "/root/kvrocks/src/batch_extractor.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/redis_db.cc.o -c /root/kvrocks/src/redis_db.cc",
+  "file": "/root/kvrocks/src/redis_db.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/redis_connection.cc.o -c /root/kvrocks/src/redis_connection.cc",
+  "file": "/root/kvrocks/src/redis_connection.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/compact_filter.cc.o -c /root/kvrocks/src/compact_filter.cc",
+  "file": "/root/kvrocks/src/compact_filter.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/worker.cc.o -c /root/kvrocks/src/worker.cc",
+  "file": "/root/kvrocks/src/worker.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/main.cc.o -c /root/kvrocks/src/main.cc",
+  "file": "/root/kvrocks/src/main.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/redis_request.cc.o -c /root/kvrocks/src/redis_request.cc",
+  "file": "/root/kvrocks/src/redis_request.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/redis_cmd.cc.o -c /root/kvrocks/src/redis_cmd.cc",
+  "file": "/root/kvrocks/src/redis_cmd.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/util.cc.o -c /root/kvrocks/src/util.cc",
+  "file": "/root/kvrocks/src/util.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/geohash.cc.o -c /root/kvrocks/src/geohash.cc",
+  "file": "/root/kvrocks/src/geohash.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/storage.cc.o -c /root/kvrocks/src/storage.cc",
+  "file": "/root/kvrocks/src/storage.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/redis_reply.cc.o -c /root/kvrocks/src/redis_reply.cc",
+  "file": "/root/kvrocks/src/redis_reply.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/replication.cc.o -c /root/kvrocks/src/replication.cc",
+  "file": "/root/kvrocks/src/replication.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/task_runner.cc.o -c /root/kvrocks/src/task_runner.cc",
+  "file": "/root/kvrocks/src/task_runner.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/encoding.cc.o -c /root/kvrocks/src/encoding.cc",
+  "file": "/root/kvrocks/src/encoding.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/redis_slot.cc.o -c /root/kvrocks/src/redis_slot.cc",
+  "file": "/root/kvrocks/src/redis_slot.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/redis_metadata.cc.o -c /root/kvrocks/src/redis_metadata.cc",
+  "file": "/root/kvrocks/src/redis_metadata.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/redis_string.cc.o -c /root/kvrocks/src/redis_string.cc",
+  "file": "/root/kvrocks/src/redis_string.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/redis_hash.cc.o -c /root/kvrocks/src/redis_hash.cc",
+  "file": "/root/kvrocks/src/redis_hash.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/redis_list.cc.o -c /root/kvrocks/src/redis_list.cc",
+  "file": "/root/kvrocks/src/redis_list.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/redis_set.cc.o -c /root/kvrocks/src/redis_set.cc",
+  "file": "/root/kvrocks/src/redis_set.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/redis_zset.cc.o -c /root/kvrocks/src/redis_zset.cc",
+  "file": "/root/kvrocks/src/redis_zset.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/redis_geo.cc.o -c /root/kvrocks/src/redis_geo.cc",
+  "file": "/root/kvrocks/src/redis_geo.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/redis_bitmap.cc.o -c /root/kvrocks/src/redis_bitmap.cc",
+  "file": "/root/kvrocks/src/redis_bitmap.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/redis_bitmap_string.cc.o -c /root/kvrocks/src/redis_bitmap_string.cc",
+  "file": "/root/kvrocks/src/redis_bitmap_string.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/redis_pubsub.cc.o -c /root/kvrocks/src/redis_pubsub.cc",
+  "file": "/root/kvrocks/src/redis_pubsub.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/redis_sortedint.cc.o -c /root/kvrocks/src/redis_sortedint.cc",
+  "file": "/root/kvrocks/src/redis_sortedint.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/lock_manager.cc.o -c /root/kvrocks/src/lock_manager.cc",
+  "file": "/root/kvrocks/src/lock_manager.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/config.cc.o -c /root/kvrocks/src/config.cc",
+  "file": "/root/kvrocks/src/config.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/stats.cc.o -c /root/kvrocks/src/stats.cc",
+  "file": "/root/kvrocks/src/stats.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/server.cc.o -c /root/kvrocks/src/server.cc",
+  "file": "/root/kvrocks/src/server.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/cron.cc.o -c /root/kvrocks/src/cron.cc",
+  "file": "/root/kvrocks/src/cron.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/event_listener.cc.o -c /root/kvrocks/src/event_listener.cc",
+  "file": "/root/kvrocks/src/event_listener.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/log_collector.cc.o -c /root/kvrocks/src/log_collector.cc",
+  "file": "/root/kvrocks/src/log_collector.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/table_properties_collector.cc.o -c /root/kvrocks/src/table_properties_collector.cc",
+  "file": "/root/kvrocks/src/table_properties_collector.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/compaction_checker.cc.o -c /root/kvrocks/src/compaction_checker.cc",
+  "file": "/root/kvrocks/src/compaction_checker.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/scripting.cc.o -c /root/kvrocks/src/scripting.cc",
+  "file": "/root/kvrocks/src/scripting.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/sha1.cc.o -c /root/kvrocks/src/sha1.cc",
+  "file": "/root/kvrocks/src/sha1.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -fno-omit-frame-pointer -O0 -o CMakeFiles/kvrocks.dir/src/rand.cc.o -c /root/kvrocks/src/rand.cc",
+  "file": "/root/kvrocks/src/rand.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/cluster.cc.o -c /root/kvrocks/src/cluster.cc",
+  "file": "/root/kvrocks/src/cluster.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/slot_migrate.cc.o -c /root/kvrocks/src/slot_migrate.cc",
+  "file": "/root/kvrocks/src/slot_migrate.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/slot_import.cc.o -c /root/kvrocks/src/slot_import.cc",
+  "file": "/root/kvrocks/src/slot_import.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/batch_extractor.cc.o -c /root/kvrocks/src/batch_extractor.cc",
+  "file": "/root/kvrocks/src/batch_extractor.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/redis_db.cc.o -c /root/kvrocks/src/redis_db.cc",
+  "file": "/root/kvrocks/src/redis_db.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/compact_filter.cc.o -c /root/kvrocks/src/compact_filter.cc",
+  "file": "/root/kvrocks/src/compact_filter.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/worker.cc.o -c /root/kvrocks/src/worker.cc",
+  "file": "/root/kvrocks/src/worker.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/util.cc.o -c /root/kvrocks/src/util.cc",
+  "file": "/root/kvrocks/src/util.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/geohash.cc.o -c /root/kvrocks/src/geohash.cc",
+  "file": "/root/kvrocks/src/geohash.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/redis_connection.cc.o -c /root/kvrocks/src/redis_connection.cc",
+  "file": "/root/kvrocks/src/redis_connection.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/redis_request.cc.o -c /root/kvrocks/src/redis_request.cc",
+  "file": "/root/kvrocks/src/redis_request.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/redis_cmd.cc.o -c /root/kvrocks/src/redis_cmd.cc",
+  "file": "/root/kvrocks/src/redis_cmd.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/storage.cc.o -c /root/kvrocks/src/storage.cc",
+  "file": "/root/kvrocks/src/storage.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/redis_reply.cc.o -c /root/kvrocks/src/redis_reply.cc",
+  "file": "/root/kvrocks/src/redis_reply.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/task_runner.cc.o -c /root/kvrocks/src/task_runner.cc",
+  "file": "/root/kvrocks/src/task_runner.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/encoding.cc.o -c /root/kvrocks/src/encoding.cc",
+  "file": "/root/kvrocks/src/encoding.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/redis_slot.cc.o -c /root/kvrocks/src/redis_slot.cc",
+  "file": "/root/kvrocks/src/redis_slot.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/redis_metadata.cc.o -c /root/kvrocks/src/redis_metadata.cc",
+  "file": "/root/kvrocks/src/redis_metadata.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/redis_string.cc.o -c /root/kvrocks/src/redis_string.cc",
+  "file": "/root/kvrocks/src/redis_string.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/redis_hash.cc.o -c /root/kvrocks/src/redis_hash.cc",
+  "file": "/root/kvrocks/src/redis_hash.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/redis_list.cc.o -c /root/kvrocks/src/redis_list.cc",
+  "file": "/root/kvrocks/src/redis_list.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/redis_set.cc.o -c /root/kvrocks/src/redis_set.cc",
+  "file": "/root/kvrocks/src/redis_set.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/redis_zset.cc.o -c /root/kvrocks/src/redis_zset.cc",
+  "file": "/root/kvrocks/src/redis_zset.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/redis_geo.cc.o -c /root/kvrocks/src/redis_geo.cc",
+  "file": "/root/kvrocks/src/redis_geo.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/redis_bitmap.cc.o -c /root/kvrocks/src/redis_bitmap.cc",
+  "file": "/root/kvrocks/src/redis_bitmap.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/redis_bitmap_string.cc.o -c /root/kvrocks/src/redis_bitmap_string.cc",
+  "file": "/root/kvrocks/src/redis_bitmap_string.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/redis_pubsub.cc.o -c /root/kvrocks/src/redis_pubsub.cc",
+  "file": "/root/kvrocks/src/redis_pubsub.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/redis_sortedint.cc.o -c /root/kvrocks/src/redis_sortedint.cc",
+  "file": "/root/kvrocks/src/redis_sortedint.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/replication.cc.o -c /root/kvrocks/src/replication.cc",
+  "file": "/root/kvrocks/src/replication.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/lock_manager.cc.o -c /root/kvrocks/src/lock_manager.cc",
+  "file": "/root/kvrocks/src/lock_manager.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/config.cc.o -c /root/kvrocks/src/config.cc",
+  "file": "/root/kvrocks/src/config.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/stats.cc.o -c /root/kvrocks/src/stats.cc",
+  "file": "/root/kvrocks/src/stats.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/server.cc.o -c /root/kvrocks/src/server.cc",
+  "file": "/root/kvrocks/src/server.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/cron.cc.o -c /root/kvrocks/src/cron.cc",
+  "file": "/root/kvrocks/src/cron.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/event_listener.cc.o -c /root/kvrocks/src/event_listener.cc",
+  "file": "/root/kvrocks/src/event_listener.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/log_collector.cc.o -c /root/kvrocks/src/log_collector.cc",
+  "file": "/root/kvrocks/src/log_collector.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/table_properties_collector.cc.o -c /root/kvrocks/src/table_properties_collector.cc",
+  "file": "/root/kvrocks/src/table_properties_collector.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/compaction_checker.cc.o -c /root/kvrocks/src/compaction_checker.cc",
+  "file": "/root/kvrocks/src/compaction_checker.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/scripting.cc.o -c /root/kvrocks/src/scripting.cc",
+  "file": "/root/kvrocks/src/scripting.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/rand.cc.o -c /root/kvrocks/src/rand.cc",
+  "file": "/root/kvrocks/src/rand.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/src/sha1.cc.o -c /root/kvrocks/src/sha1.cc",
+  "file": "/root/kvrocks/src/sha1.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/tools/kvrocks2redis/config.cc.o -c /root/kvrocks/tools/kvrocks2redis/config.cc",
+  "file": "/root/kvrocks/tools/kvrocks2redis/config.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/tools/kvrocks2redis/main.cc.o -c /root/kvrocks/tools/kvrocks2redis/main.cc",
+  "file": "/root/kvrocks/tools/kvrocks2redis/main.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/tools/kvrocks2redis/sync.cc.o -c /root/kvrocks/tools/kvrocks2redis/sync.cc",
+  "file": "/root/kvrocks/tools/kvrocks2redis/sync.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/tools/kvrocks2redis/redis_writer.cc.o -c /root/kvrocks/tools/kvrocks2redis/redis_writer.cc",
+  "file": "/root/kvrocks/tools/kvrocks2redis/redis_writer.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/tools/kvrocks2redis/writer.cc.o -c /root/kvrocks/tools/kvrocks2redis/writer.cc",
+  "file": "/root/kvrocks/tools/kvrocks2redis/writer.cc"
+},
+{
+  "directory": "/root/kvrocks/build",
+  "command": "/usr/bin/g++ -I. -Iexternal/jemalloc-install/include -Iexternal/glog-install/include -Iexternal/rocksdb-install/include -Iexternal/snappy-install/include -Iexternal/libevent-install/include -Iexternal/lua-install/include -g -Wall -Wpedantic -g -Wsign-compare -Wreturn-type -o CMakeFiles/kvrocks2redis.dir/tools/kvrocks2redis/parser.cc.o -c /root/kvrocks/tools/kvrocks2redis/parser.cc",
+  "file": "/root/kvrocks/tools/kvrocks2redis/parser.cc"
+}
+]

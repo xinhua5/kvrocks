@@ -1,0 +1,1 @@
+cmd='/root/kvrocks/external/jemalloc/configure;--enable-autogen;--disable-libdl;--with-jemalloc-prefix="";--prefix=/root/kvrocks/build/external/jemalloc-install'

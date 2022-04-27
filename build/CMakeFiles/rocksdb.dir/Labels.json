@@ -1,0 +1,94 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/root/kvrocks/build/CMakeFiles/rocksdb"
+		},
+		{
+			"file" : "/root/kvrocks/build/CMakeFiles/rocksdb.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/CMakeFiles/rocksdb-complete.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/rocksdb-prefix/src/rocksdb-stamp/rocksdb-build.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/rocksdb-prefix/src/rocksdb-stamp/rocksdb-configure.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/rocksdb-prefix/src/rocksdb-stamp/rocksdb-download.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/rocksdb-prefix/src/rocksdb-stamp/rocksdb-install.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/rocksdb-prefix/src/rocksdb-stamp/rocksdb-mkdir.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/rocksdb-prefix/src/rocksdb-stamp/rocksdb-patch.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/rocksdb-prefix/src/rocksdb-stamp/rocksdb-update.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/CMakeFiles/jemalloc-complete.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/CMakeFiles/snappy-complete.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-autoconf.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-build.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-configure.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-download.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-install.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-mkdir.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-patch.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-update.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/snappy-prefix/src/snappy-stamp/snappy-build.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/snappy-prefix/src/snappy-stamp/snappy-configure.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/snappy-prefix/src/snappy-stamp/snappy-download.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/snappy-prefix/src/snappy-stamp/snappy-install.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/snappy-prefix/src/snappy-stamp/snappy-mkdir.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/snappy-prefix/src/snappy-stamp/snappy-patch.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/snappy-prefix/src/snappy-stamp/snappy-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"rocksdb"
+		],
+		"name" : "rocksdb"
+	}
+}

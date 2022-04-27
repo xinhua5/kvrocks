@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/root/kvrocks/build/CMakeFiles/glog"
+		},
+		{
+			"file" : "/root/kvrocks/build/CMakeFiles/glog.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/CMakeFiles/glog-complete.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/glog-prefix/src/glog-stamp/glog-build.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/glog-prefix/src/glog-stamp/glog-configure.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/glog-prefix/src/glog-stamp/glog-download.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/glog-prefix/src/glog-stamp/glog-install.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/glog-prefix/src/glog-stamp/glog-mkdir.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/glog-prefix/src/glog-stamp/glog-patch.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/glog-prefix/src/glog-stamp/glog-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glog"
+		],
+		"name" : "glog"
+	}
+}

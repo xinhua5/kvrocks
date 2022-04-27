@@ -1,0 +1,13 @@
+# Target labels
+ glog
+# Source files and their labels
+/root/kvrocks/build/CMakeFiles/glog
+/root/kvrocks/build/CMakeFiles/glog.rule
+/root/kvrocks/build/CMakeFiles/glog-complete.rule
+/root/kvrocks/build/external/glog-prefix/src/glog-stamp/glog-build.rule
+/root/kvrocks/build/external/glog-prefix/src/glog-stamp/glog-configure.rule
+/root/kvrocks/build/external/glog-prefix/src/glog-stamp/glog-download.rule
+/root/kvrocks/build/external/glog-prefix/src/glog-stamp/glog-install.rule
+/root/kvrocks/build/external/glog-prefix/src/glog-stamp/glog-mkdir.rule
+/root/kvrocks/build/external/glog-prefix/src/glog-stamp/glog-patch.rule
+/root/kvrocks/build/external/glog-prefix/src/glog-stamp/glog-update.rule

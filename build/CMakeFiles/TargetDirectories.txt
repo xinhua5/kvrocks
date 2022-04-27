@@ -1,0 +1,11 @@
+/root/kvrocks/build/CMakeFiles/edit_cache.dir
+/root/kvrocks/build/CMakeFiles/unittest.dir
+/root/kvrocks/build/CMakeFiles/kvrocks.dir
+/root/kvrocks/build/CMakeFiles/rebuild_cache.dir
+/root/kvrocks/build/CMakeFiles/glog.dir
+/root/kvrocks/build/CMakeFiles/jemalloc.dir
+/root/kvrocks/build/CMakeFiles/snappy.dir
+/root/kvrocks/build/CMakeFiles/libevent.dir
+/root/kvrocks/build/CMakeFiles/lua.dir
+/root/kvrocks/build/CMakeFiles/kvrocks2redis.dir
+/root/kvrocks/build/CMakeFiles/rocksdb.dir

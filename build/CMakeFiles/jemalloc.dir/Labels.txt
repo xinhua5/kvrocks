@@ -1,0 +1,14 @@
+# Target labels
+ jemalloc
+# Source files and their labels
+/root/kvrocks/build/CMakeFiles/jemalloc
+/root/kvrocks/build/CMakeFiles/jemalloc.rule
+/root/kvrocks/build/CMakeFiles/jemalloc-complete.rule
+/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-autoconf.rule
+/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-build.rule
+/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-configure.rule
+/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-download.rule
+/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-install.rule
+/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-mkdir.rule
+/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-patch.rule
+/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-update.rule

@@ -1,0 +1,30 @@
+# Target labels
+ rocksdb
+# Source files and their labels
+/root/kvrocks/build/CMakeFiles/rocksdb
+/root/kvrocks/build/CMakeFiles/rocksdb.rule
+/root/kvrocks/build/CMakeFiles/rocksdb-complete.rule
+/root/kvrocks/build/external/rocksdb-prefix/src/rocksdb-stamp/rocksdb-build.rule
+/root/kvrocks/build/external/rocksdb-prefix/src/rocksdb-stamp/rocksdb-configure.rule
+/root/kvrocks/build/external/rocksdb-prefix/src/rocksdb-stamp/rocksdb-download.rule
+/root/kvrocks/build/external/rocksdb-prefix/src/rocksdb-stamp/rocksdb-install.rule
+/root/kvrocks/build/external/rocksdb-prefix/src/rocksdb-stamp/rocksdb-mkdir.rule
+/root/kvrocks/build/external/rocksdb-prefix/src/rocksdb-stamp/rocksdb-patch.rule
+/root/kvrocks/build/external/rocksdb-prefix/src/rocksdb-stamp/rocksdb-update.rule
+/root/kvrocks/build/CMakeFiles/jemalloc-complete.rule
+/root/kvrocks/build/CMakeFiles/snappy-complete.rule
+/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-autoconf.rule
+/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-build.rule
+/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-configure.rule
+/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-download.rule
+/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-install.rule
+/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-mkdir.rule
+/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-patch.rule
+/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-update.rule
+/root/kvrocks/build/external/snappy-prefix/src/snappy-stamp/snappy-build.rule
+/root/kvrocks/build/external/snappy-prefix/src/snappy-stamp/snappy-configure.rule
+/root/kvrocks/build/external/snappy-prefix/src/snappy-stamp/snappy-download.rule
+/root/kvrocks/build/external/snappy-prefix/src/snappy-stamp/snappy-install.rule
+/root/kvrocks/build/external/snappy-prefix/src/snappy-stamp/snappy-mkdir.rule
+/root/kvrocks/build/external/snappy-prefix/src/snappy-stamp/snappy-patch.rule
+/root/kvrocks/build/external/snappy-prefix/src/snappy-stamp/snappy-update.rule

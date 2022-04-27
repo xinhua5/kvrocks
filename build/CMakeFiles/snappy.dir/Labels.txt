@@ -1,0 +1,13 @@
+# Target labels
+ snappy
+# Source files and their labels
+/root/kvrocks/build/CMakeFiles/snappy
+/root/kvrocks/build/CMakeFiles/snappy.rule
+/root/kvrocks/build/CMakeFiles/snappy-complete.rule
+/root/kvrocks/build/external/snappy-prefix/src/snappy-stamp/snappy-build.rule
+/root/kvrocks/build/external/snappy-prefix/src/snappy-stamp/snappy-configure.rule
+/root/kvrocks/build/external/snappy-prefix/src/snappy-stamp/snappy-download.rule
+/root/kvrocks/build/external/snappy-prefix/src/snappy-stamp/snappy-install.rule
+/root/kvrocks/build/external/snappy-prefix/src/snappy-stamp/snappy-mkdir.rule
+/root/kvrocks/build/external/snappy-prefix/src/snappy-stamp/snappy-patch.rule
+/root/kvrocks/build/external/snappy-prefix/src/snappy-stamp/snappy-update.rule

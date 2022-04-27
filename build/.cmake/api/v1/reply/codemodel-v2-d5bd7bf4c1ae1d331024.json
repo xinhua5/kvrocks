@@ -1,0 +1,131 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "kvrocks",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "glog::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-glog-Debug-e6b5015112a55d4a5e87.json",
+					"name" : "glog",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "jemalloc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-jemalloc-Debug-9a3fa52ae55e161fcede.json",
+					"name" : "jemalloc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kvrocks::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kvrocks-Debug-061f0d1f9b2b7f2a1d76.json",
+					"name" : "kvrocks",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kvrocks2redis::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kvrocks2redis-Debug-480704d6b7da26339999.json",
+					"name" : "kvrocks2redis",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "libevent::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-libevent-Debug-ac12d8401d9d0a0cd2d0.json",
+					"name" : "libevent",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "lua::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-lua-Debug-f2dcd4099cd52c0591ed.json",
+					"name" : "lua",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rocksdb::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rocksdb-Debug-ae7cf7065261405b0e60.json",
+					"name" : "rocksdb",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "snappy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-snappy-Debug-9e1ad5f5753d666b0e24.json",
+					"name" : "snappy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "unittest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-unittest-Debug-4ad27a42bb030e74d6e3.json",
+					"name" : "unittest",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/root/kvrocks/build",
+		"source" : "/root/kvrocks"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

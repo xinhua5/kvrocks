@@ -1,0 +1,13 @@
+# Target labels
+ lua
+# Source files and their labels
+/root/kvrocks/build/CMakeFiles/lua
+/root/kvrocks/build/CMakeFiles/lua.rule
+/root/kvrocks/build/CMakeFiles/lua-complete.rule
+/root/kvrocks/build/external/lua-prefix/src/lua-stamp/lua-build.rule
+/root/kvrocks/build/external/lua-prefix/src/lua-stamp/lua-configure.rule
+/root/kvrocks/build/external/lua-prefix/src/lua-stamp/lua-download.rule
+/root/kvrocks/build/external/lua-prefix/src/lua-stamp/lua-install.rule
+/root/kvrocks/build/external/lua-prefix/src/lua-stamp/lua-mkdir.rule
+/root/kvrocks/build/external/lua-prefix/src/lua-stamp/lua-patch.rule
+/root/kvrocks/build/external/lua-prefix/src/lua-stamp/lua-update.rule

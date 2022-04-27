@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/root/kvrocks/build/CMakeFiles/jemalloc"
+		},
+		{
+			"file" : "/root/kvrocks/build/CMakeFiles/jemalloc.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/CMakeFiles/jemalloc-complete.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-autoconf.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-build.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-configure.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-download.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-install.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-mkdir.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-patch.rule"
+		},
+		{
+			"file" : "/root/kvrocks/build/external/jemalloc-prefix/src/jemalloc-stamp/jemalloc-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"jemalloc"
+		],
+		"name" : "jemalloc"
+	}
+}
