@@ -116,7 +116,7 @@ def prepare() -> None:
 
 def build(dir: str, jobs: Optional[int] = None, ninja: bool = False, unittest: bool = False,
           compiler: str = 'auto', cmake_path: str = 'cmake', D: List[str] = [], skip_build: bool = False,
-          dep_dir: Optional[str] = None, toolchain: Optional[str] = None) -> None:
+          dep_dir: Optional[str] = None, toolchain: Optional[str] = None, io_uring: str = 'off') -> None:
     basedir = Path(__file__).parent.absolute()
 
     find_command("autoconf", msg="autoconf is required to build jemalloc")
@@ -139,6 +139,8 @@ def build(dir: str, jobs: Optional[int] = None, ninja: bool = False, unittest: b
         cmake_options += ["-DCMAKE_C_COMPILER=gcc", "-DCMAKE_CXX_COMPILER=g++"]
     elif compiler == 'clang':
         cmake_options += ["-DCMAKE_C_COMPILER=clang", "-DCMAKE_CXX_COMPILER=clang++"]
+    if io_uring == 'on':
+        cmake_options += ["-DENABLE_IO_URING=ON"]
     if D:
         cmake_options += [f"-D{o}" for o in D]
     if dep_dir:
@@ -408,6 +410,8 @@ if __name__ == '__main__':
     parser_build.add_argument('--skip-build', default=False, action='store_true',
                               help='runs only the configure stage, skip the build stage')
     parser_build.add_argument('--dep-dir', help='directory to store fetched archives of dependencies')
+    parser_build.add_argument('--io-uring', default='off', choices=('on', 'off'),
+                              help='enable io_uring in RocksDB')
     parser_build.set_defaults(func=build)
 
     parser_fetch_deps = subparsers.add_parser(
